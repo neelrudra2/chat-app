@@ -76,10 +76,15 @@ This design ensures **100% non-blocking communication** and uninterrupted messag
 
 ## 💬 Sample Console Output
 
-[+] Server listening on 0.0.0.0:5000
-[+] Connected by ('192.168.1.5', 53421)
+<p align="center">
+  <img src="client_image.png" width="45%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="server_image.png" width="45%">
+</p>
 
-[Server]: Hi, connection successful.
+<p align="center">
+  <i>Real-time message exchange between server and client terminals</i>
+</p>
 
 ---
 

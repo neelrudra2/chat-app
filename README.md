@@ -77,9 +77,9 @@ This design ensures **100% non-blocking communication** and uninterrupted messag
 ## 💬 Sample Console Output
 
 <p align="center">
-  <img src="client_image.png" width="45%">
+  <img src="client_img.png" width="45%">
   &nbsp;&nbsp;&nbsp;
-  <img src="server_image.png" width="45%">
+  <img src="server_img.png" width="45%">
 </p>
 
 <p align="center">

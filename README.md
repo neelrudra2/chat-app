@@ -83,11 +83,6 @@ This design ensures **100% non-blocking communication** and uninterrupted messag
 </p>
 
 <p align="center">
-  <b>Left:</b> TCP Communication Architecture &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>Right:</b> Multi-Threaded Send/Receive Model
-</p>
-
-<p align="center">
   <i>Real-time message exchange between client and server terminals</i>
 </p>
 
